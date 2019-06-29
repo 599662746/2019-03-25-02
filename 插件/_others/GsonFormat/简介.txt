@@ -1,0 +1,5 @@
+根据JSONObject格式的字符串,自动生成实体类参数.
+
+安装
+１.Android studio  File->Settings..->Plugins -->install plugin from disk..导入下载的 GsonFormat.jar ,
+２.重启 android studio .

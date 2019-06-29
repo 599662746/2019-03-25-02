@@ -1,0 +1,1 @@
+可以根据布局文件生成Activity,Adapter,Fragement代码，大大节省时间
